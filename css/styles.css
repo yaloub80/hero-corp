@@ -1,0 +1,56 @@
+html{
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: auto;
+} 
+
+main{
+    background-color: bisque;
+    padding: 10px;
+    margin-top: 1em;
+}
+
+h1{
+    border-top: 2px solid #7e2f2f;
+    border-bottom: 2px solid #7e2f2f;
+    padding: 10px;
+}
+
+.entete{
+    text-align: center;
+}
+
+
+#jespere{
+    margin: auto;
+    text-align: center;
+}
+
+#un {
+    border-bottom: 2px solid #000000;
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#deuz {
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: #7e2f2f;
+}
+
+em {
+    font-style: normal;
+    color: #000000;
+}
+
+span {
+    background-color: black;
+    padding: 5px;
+    color: #ffffff;
+    font-size: 15px;
+}
