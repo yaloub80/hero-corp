@@ -37,9 +37,13 @@ h1{
 }
 
 main {
-    background-color: #D3D3D3;
     margin: 1em;
     padding: 1em;
+        background-color: #D3D3D3;
+}
+
+section.Présentation{
+        background-color: #D3D3D3;
 }
 
 aside {
@@ -83,4 +87,25 @@ a {
 #actors a:hover {
     color: #EEEEEE;
   background-color: #8b0000;
+}
+
+.picture {
+    margin: 25px auto;
+    width: 245px;
+    border: 1px solid #D3D3D3;
+    text-align: center;
+    padding: 25px;
+}
+
+p.texte-courant {
+    text-align: left;
+}
+
+ul {
+    background-color: #ffffff;
+    margin: 0;
+}
+
+#pictures {
+    display: flex;
 }
